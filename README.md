@@ -1,2 +1,2 @@
 # Share
-Repo for sharing vid and files
+Repo for sharing source codes and files
